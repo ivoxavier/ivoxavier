@@ -10,7 +10,8 @@ I´m from Portugal, and I develop apps for Ubuntu Touch. I'm also Admin & Reviso
 
 - ♥ I love Free Open Source Software.
 - 💬 Ask me about GNU/Linux & Ubuntu.
-- -🔭 I’m currently working on Data Analysis.
+- 🔭 I’m currently working on Data Analysis.
+- ⚡ Fun fact: I am Human!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivoxavier&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
