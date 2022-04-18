@@ -6,11 +6,13 @@
 
 <h3>Some information about me</h3>
 
-I´m from Portugal, and I develop apps for Ubuntu Touch. I'm also Admin & Revisor at <a href="https://launchpad.net/~ivoxavier">Ubuntu Portuguese Translators </a>
+Living in Portugal, and I develop apps for Ubuntu Touch.
 
 - ♥ I love Free Open Source Software.
 - 💬 Ask me about GNU/Linux & Ubuntu.
-- 🔭 I’m currently working on Data Analysis.
+- 🤓 Member Board of Trustees of the @ubports Foundation 
+- 🧙🏼‍♂️ Admin & Revisor at <a href="https://launchpad.net/~ivoxavier">Ubuntu Portuguese Translators</a>
+- 🧑🏻‍💻 I’m currently working on Data Analysis.
 - ⚡ Fun fact: I am Human!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivoxavier&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
