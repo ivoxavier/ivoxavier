@@ -6,7 +6,7 @@
 
 <h3>Some information about me</h3>
 
-Living in Portugal, and I develop apps for Ubuntu Touch.
+Living in Portugal. I develop apps for Ubuntu Touch.
 
 - ♥ I love Free Open Source Software.
 - 💬 Ask me about GNU/Linux & Ubuntu.
