@@ -16,11 +16,8 @@
 
 <h3 align="center">Some information about me</h3>
 <br>
-Living in Portugal. I develop apps for Ubuntu Touch.
 
-<br>
-
-- ♥ I love Free Open Source Software.
+- ♥ I love Free Open Source Software and I develop apps for Ubuntu Touch.
 - 💬 Ask me about GNU/Linux & Ubuntu.
 - 🤓 Member Board of Trustees of the @ubports Foundation 
 - 🧙🏼‍♂️ Admin & Revisor at <a href="https://launchpad.net/~ivoxavier">Ubuntu Portuguese Translators</a>
