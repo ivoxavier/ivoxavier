@@ -20,7 +20,7 @@
 - 💬 Ask me about GNU/Linux & Ubuntu.
 - 🤓 Member Board of Trustees of the @ubports Foundation 
 - 🧙🏼‍♂️ Admin & Revisor at <a href="https://launchpad.net/~ivoxavier">Ubuntu Portuguese Translators</a>
-- 🧑🏻‍💻 Data Analyst.
+- 🧑🏻‍💻 IT Consultant
 - ⚡ Fun fact: I am Human!
 
 <br>
