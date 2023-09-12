@@ -34,17 +34,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivoxavier&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<br>
-<h3 align="center">
-  How to reach me?
-</h3>
-
-
-[<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](http://t.me/ixsvf)
-[<img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32">](https://www.instagram.com/ixsvf)
-[<img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" width="32">](https://www.facebook.com/ixsvf)
-[<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32">](https://www.twitter.com/ixsvf)
-
 ---
 <p align="center">
   <b>Thanks for visiting!</b>
