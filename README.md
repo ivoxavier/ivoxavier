@@ -16,7 +16,7 @@
 <h3 align="center">Some information about me</h3>
 <br>
 
-- ♥ I love Free Open Source Software and I develop apps for Ubuntu Touch.
+- ♥ I love Free Open Source Software and I develop apps for Ubuntu Touch && Android.
 - 💬 Ask me about GNU/Linux & Ubuntu.
 - 🤓 Member Board of Trustees of the @ubports Foundation 
 - 🧙🏼‍♂️ Admin & Revisor at <a href="https://launchpad.net/~ivoxavier">Ubuntu Portuguese Translators</a>
