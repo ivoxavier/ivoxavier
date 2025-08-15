@@ -1,46 +1,53 @@
-<h2 align="center">Welcome to my GitHub profile!👋</h2>
+<div align="center">
+  
+# Hi, I'm Ivo 👋
 
-<h1 align="center">I'm Ivo!</h1>
+### FullStack Developer | Open-Source Enthusias
 
-<p align="center"><img src="https://gpvc.arturio.dev/ivoxavier"></p>
+</div>
 
-<h3 align="center">Tech I Like</h3>
+Sou um desenvolvedor apaixonado por **Software Livre (FOSS)** e pela comunidade que o rodeia. A minha jornada passa pelo desenvolvimento de aplicações para **Ubuntu Touch** e **Android**, e pela contribuição ativa para o ecossistema GNU/Linux.
 
-<p align='center'>
+- 🤓 Membro do **Board of Trustees** na [@ubports Foundation](https://ubports.com/).
+- 🧙🏼‍♂️ Administrador e Revisor na equipa [Ubuntu Portuguese Translators](https://launchpad.net/~ivoxavier).
+- 💬 Pergunte-me sobre **GNU/Linux, Ubuntu, ou desenvolvimento mobile open-source**.
+- ⚡ Facto engraçado: Sou humano... ou serei eu um script de Python muito avançado? 😉
+
+---
+
+### 📫 Onde me encontrar:
+<p align="center">
+  <a href="mailto:o.teu.email@aqui.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/teu-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/teu-username"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+### 🛠️ Tecnologias e Ferramentas que Utilizo
+
+<p align="center">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br>
-</p>
-
-<h3 align="center">Some information about me</h3>
-<br>
-
-- ♥ I love Free Open Source Software and I develop apps for Ubuntu Touch && Android.
-- 💬 Ask me about GNU/Linux & Ubuntu.
-- 🤓 Member Board of Trustees of the @ubports Foundation 
-- 🧙🏼‍♂️ Admin & Revisor at <a href="https://launchpad.net/~ivoxavier">Ubuntu Portuguese Translators</a>
-- 🧑🏻‍💻 Developer
-- 🧑‍🏫 I do Coaching
-- ⚡ Fun fact: I am Human!
-
-<br>
-
-<p align='left'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivoxavier&layout=compact&theme=dark" width="350"></a>
-</p>
-
-<br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivoxavier&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  </p>
 
 ---
+
+### 📊 As minhas Estatísticas
+
 <p align="center">
-  <b>Thanks for visiting!</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=ivoxavier&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Ivo Xavier" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivoxavier&layout=compact&theme=dark&langs_count=8" alt="Linguagens mais usadas por Ivo Xavier" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ivoxavier&theme=darkhub&column=7" alt="Troféus GitHub de Ivo Xavier" />
 </p>
 
-<!---
-ivoxavier/ivoxavier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<div align="center">
+  <p>Obrigado pela visita!</p>
+  <img src="https://gpvc.arturio.dev/ivoxavier" alt="Contador de visitas do perfil">
+</div>
