@@ -1,24 +1,23 @@
 <div align="center">
   
-# Hi, I'm Ivo 👋
+# Olá 👋
 
-### FullStack Developer | Open-Source Enthusias
+### FullStack Developer | Open-Source Enthusiast | System Integration Developer
 
 </div>
 
-Sou um programador apaixonado por **Software Livre (FOSS)** e pela comunidade que o rodeia. A minha jornada passa pelo desenvolvimento de aplicações para **Ubuntu Touch** e **Android**, e pela contribuição ativa para o ecossistema GNU/Linux.
+Sou um programador que adora Software. Desenvolvo aplicações mobile(**Ubuntu Touch**,**Android**), WebServices, Windows forms e integrações de sistemas.
 
 - 🤓 Membro do **Board of Trustees** na [@ubports Foundation](https://ubports.com/).
 - 🧙🏼‍♂️ Administrador e Revisor na equipa [Ubuntu Portuguese Translators](https://launchpad.net/~ivoxavier).
-- 💬 Pergunte-me sobre **GNU/Linux, Ubuntu, ou desenvolvimento mobile open-source**.
+- 🗣️ Faço coaching. Agenda comigo!
 
 ---
 
 ### 📫 Onde me encontrar:
 <p align="center">
   <a href="mailto:ivofernandes12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/teu-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/teu-username"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://x.com/ixsvf"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
@@ -29,7 +28,6 @@ Sou um programador apaixonado por **Software Livre (FOSS)** e pela comunidade qu
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </p>
 
 ---
