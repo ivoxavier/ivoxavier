@@ -8,7 +8,7 @@
 
 Sou um programador que adora Software. Desenvolvo aplicações mobile(**Ubuntu Touch**,**Android**), WebServices, Windows forms e integrações de sistemas.
 
-- 🤓 Membro do **Board of Trustees** na [@ubports Foundation](https://ubports.com/).
+- 🤓 Antigo Membro do **Board of Trustees** na [@ubports Foundation](https://ubports.com/).
 - 🧙🏼‍♂️ Administrador e Revisor na equipa [Ubuntu Portuguese Translators](https://launchpad.net/~ivoxavier).
 - 🗣️ Faço coaching. Agenda comigo!
 
